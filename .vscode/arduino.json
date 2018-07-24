@@ -1,5 +1,5 @@
 {
     "port": "COM3",
     "board": "arduino:avr:uno",
-    "sketch": "reMorse.ino"
+    "sketch": "reMorse\\reMorse.ino"
 }
