@@ -1,10 +1,11 @@
 void morseA () {
-    // Serial.write("Send morse code for 'A' ");
+    Serial.println("Sending morse code for 'A' ");
     dot();
     dash();
 }
 
 void morseB () {
+  Serial.println("Sending morse code for 'B' ");
     dash();
     dot();
     dot();
@@ -12,6 +13,7 @@ void morseB () {
 }
 
 void morseC () {
+  Serial.println("Sending morse code for 'C' ");
     dash();
     dot();
     dash();
@@ -19,16 +21,19 @@ void morseC () {
 }
 
 void morseD () {
+  Serial.println("Sending morse code for 'D' ");
     dash();
     dot();
     dot();
 }
 
 void morseE () {
+  Serial.println("Sending morse code for 'E' ");
     dot();
 }
 
 void morseF () {
+    Serial.println("Sending morse code for 'F' ");
     dot();
     dot();
     dash();
@@ -36,12 +41,14 @@ void morseF () {
 }
 
 void morseG () {
+  Serial.println("Sending morse code for 'G' ");
     dash();
     dash();
     dot();
 }
 
 void morseH () {
+  Serial.println("Sending morse code for 'H' ");
     dot();
     dot();
     dot();
@@ -49,11 +56,13 @@ void morseH () {
 }
 
 void morseI () {
+  Serial.println("Sending morse code for I' ");
     dot();
     dot();
 }
 
 void morseJ () {
+   Serial.println("Sending morse code for 'J' ");
     dot();
     dash();
     dash();
@@ -61,12 +70,14 @@ void morseJ () {
 }
 
 void morseK () {
+  Serial.println("Sending morse code for 'K' ");
     dash();
     dot();
     dash();
 }
 
 void morseL () {
+  Serial.println("Sending morse code for 'L' ");
     dot();
     dash();
     dot();
@@ -74,22 +85,26 @@ void morseL () {
 }
 
 void morseM () {
+  Serial.println("Sending morse code for 'M' ");
     dash();
     dash();
 }
 
 void morseN () {
+  Serial.println("Sending morse code for 'N' ");
     dash();
     dot();
 }
 
 void morseO () {
+  Serial.println("Sending morse code for 'O' ");
     dash();
     dash();
     dash();
 }
 
 void morseP () {
+  Serial.println("Sending morse code for 'P' ");
     dot();
     dash();
     dash();
@@ -97,6 +112,7 @@ void morseP () {
 }
 
 void morseQ () {
+  Serial.println("Sending morse code for 'Q' ");
     dash();
     dash();
     dot();
@@ -104,28 +120,33 @@ void morseQ () {
 }
 
 void morseR () {
+  Serial.println("Sending morse code for 'R' ");
     dot();
     dash();
     dot();
 }
 
 void morseS () {
+  Serial.println("Sending morse code for 'S' ");
     dot();
     dot();
     dot();
 }
 
 void morseT () {
+  Serial.println("Sending morse code for 'T' ");
     dash();
 }
 
 void morseU () {
+  Serial.println("Sending morse code for 'U' ");
     dot();
     dot();
     dash();
 }
 
 void morseV () {
+  Serial.println("Sending morse code for 'V' ");
     dot();
     dot();
     dot();
@@ -133,12 +154,14 @@ void morseV () {
 }
 
 void morseW () {
+  Serial.println("Sending morse code for 'W' ");
     dot();
     dash();
     dash();
 }
 
 void morseX () {
+  Serial.println("Sending morse code for 'X' ");
     dash();
     dot();
     dot();
@@ -146,6 +169,7 @@ void morseX () {
 }
 
 void morseY () {
+  Serial.println("Sending morse code for 'Y' ");
     dash();
     dot();
     dash();
@@ -153,6 +177,7 @@ void morseY () {
 }
 
 void morseZ () {
+  Serial.println("Sending morse code for 'Z' ");
     dash();
     dash();
     dot();
