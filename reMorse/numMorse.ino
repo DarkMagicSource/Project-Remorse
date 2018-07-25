@@ -1,4 +1,5 @@
 void morse0 () {
+  Serial.write("Sending morse code for '0' ");
     dash();
     dash();
     dash();
@@ -7,6 +8,7 @@ void morse0 () {
 }
 
 void morse1 () {
+  Serial.write("Sending morse code for '1' ");
     dot();
     dash();
     dash();
@@ -15,6 +17,7 @@ void morse1 () {
 }
 
 void morse2 () {
+  Serial.write("Sending morse code for '2' ");
     dot();
     dot();
     dash();
@@ -23,6 +26,7 @@ void morse2 () {
 }
 
 void morse3 () {
+  Serial.write("Sending morse code for '3' ");
     dot();
     dot();
     dot();
@@ -31,6 +35,7 @@ void morse3 () {
 }
 
 void morse4 () {
+  Serial.write("Sending morse code for '4' ");
     dot();
     dot();
     dot();
@@ -39,6 +44,7 @@ void morse4 () {
 }
 
 void morse5 () {
+  Serial.write("Sending morse code for '5' ");
     dot();
     dot();
     dot();
@@ -47,6 +53,7 @@ void morse5 () {
 }
 
 void morse6 () {
+  Serial.write("Sending morse code for '6' ");
     dash();
     dot();
     dot();
@@ -55,6 +62,7 @@ void morse6 () {
 }
 
 void morse7 () {
+  Serial.write("Sending morse code for '7' ");
     dash();
     dash();
     dot();
@@ -63,6 +71,7 @@ void morse7 () {
 }
 
 void morse8 () {
+  Serial.write("Sending morse code for '8' ");
     dash();
     dash();
     dash();
@@ -71,6 +80,7 @@ void morse8 () {
 }
 
 void morse9 () {
+  Serial.write("Sending morse code for '9' ");
     dash();
     dash();
     dash();
