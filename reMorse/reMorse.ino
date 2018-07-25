@@ -26,31 +26,31 @@ void loop () {
         if (input == '7') {morse7();}
         if (input == '8') {morse8();}
         if (input == '9') {morse9();}
-        if (input == 'a') {morseA();}
-        if (input == 'b') {morseB();}
-        if (input == 'c') {morseC();}
-        if (input == 'd') {morseD();}
-        if (input == 'e') {morseE();}
-        if (input == 'f') {morseF();}
-        if (input == 'g') {morseG();}
-        if (input == 'h') {morseH();}
-        if (input == 'i') {morseI();}
-        if (input == 'j') {morseJ();}
-        if (input == 'k') {morseK();}
-        if (input == 'l') {morseL();}
-        if (input == 'm') {morseM();}
-        if (input == 'n') {morseN();}
-        if (input == 'o') {morseO();}
-        if (input == 'p') {morseP();}
-        if (input == 'q') {morseQ();}
-        if (input == 'r') {morseR();}
-        if (input == 's') {morseS();}
-        if (input == 't') {morseT();}
-        if (input == 'u') {morseU();}
-        if (input == 'v') {morseV();}
-        if (input == 'w') {morseW();}
-        if (input == 'x') {morseX();}
-        if (input == 'y') {morseY();}
-        if (input == 'z') {morseZ();}
+        if (input == 'a', 'A') {morseA();}
+        if (input == 'b', 'B') {morseB();}
+        if (input == 'c', 'C') {morseC();}
+        if (input == 'd', 'D') {morseD();}
+        if (input == 'e', 'E') {morseE();}
+        if (input == 'f', 'F') {morseF();}
+        if (input == 'g', 'G') {morseG();}
+        if (input == 'h', 'H') {morseH();}
+        if (input == 'i', 'I') {morseI();}
+        if (input == 'j', 'J') {morseJ();}
+        if (input == 'k', 'K') {morseK();}
+        if (input == 'l', 'L') {morseL();}
+        if (input == 'm', 'M') {morseM();}
+        if (input == 'n', 'N') {morseN();}
+        if (input == 'o', 'O') {morseO();}
+        if (input == 'p', 'P') {morseP();}
+        if (input == 'q', 'Q') {morseQ();}
+        if (input == 'r', 'R') {morseR();}
+        if (input == 's', 'S') {morseS();}
+        if (input == 't', 'T') {morseT();}
+        if (input == 'u', 'U') {morseU();}
+        if (input == 'v', 'V') {morseV();}
+        if (input == 'w', 'W') {morseW();}
+        if (input == 'x', 'X') {morseX();}
+        if (input == 'y', 'Y') {morseY();}
+        if (input == 'z', 'Z') {morseZ();}
     }
 }
