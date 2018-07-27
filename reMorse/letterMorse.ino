@@ -56,7 +56,7 @@ void morseH () {
 }
 
 void morseI () {
-  Serial.println("Sending morse code for I' ");
+  Serial.println("Sending morse code for 'I' ");
     dot();
     dot();
 }

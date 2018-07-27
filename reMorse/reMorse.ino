@@ -52,10 +52,11 @@ void loop () {
         if (input == 'x') {morseX();}
         if (input == 'y') {morseY();}
         if (input == 'z') {morseZ();}
-        if (input ==  ' ') {morseSpace();}
+        if (input == ' ') {morseSpace();}
     }
 }
 
 void morseSpace () {
-    delay(2000);
+  Serial.println("Waiting");
+  delay(2000);
 }
